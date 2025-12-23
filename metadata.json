@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TaskFlow - Gerenciador de Tarefas",
+  "description": "Uma aplicação de gerenciamento de tarefas educacional desenvolvida em React para demonstrar o uso de Context API e compartilhamento de estado entre componentes, integrada com a API DummyJSON.",
+  "requestFramePermissions": []
+}
